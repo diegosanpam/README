@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Diego Sánchez!
+# Hi, I'm Diego Sánchez!
 
 🎓 I'm a Computer Technologies Engineering student at Tecnológico de Monterrey.  
 🤖 Passionate about robotics, artificial intelligence, and digital privacy.  
@@ -19,4 +19,4 @@
 
 ## 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/diego-s%C3%A1nchez-a6677028a/)  
-[Email](mailto:tuemail@ejemplo.com)
+[Email](diegospamanesuni@gmail.com)
